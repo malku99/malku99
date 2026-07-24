@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=muzammilAwan-dev&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzammilAwan-dev&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzammilAwan-dev&theme=dark&hide_border=false&layout=compact&v=2" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">

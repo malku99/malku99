@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilAwan-dev&theme=dark&hide_border=false" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilAwan-dev&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilAwan-dev&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilAwan-dev&theme=react-dark&v=2" alt="Activity Graph" />
 </p>
 
 ---
